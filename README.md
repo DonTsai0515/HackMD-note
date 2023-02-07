@@ -1,7 +1,7 @@
 HackMD 筆記
 ===
 
-快速上手 :man-biking: 
+快速上手 :bike: 
 ---
 
 - [快速入門教學](/bPf0rUbORVa-tW0D5mkEMA)
@@ -22,7 +22,7 @@ HackMD 筆記
 - [在筆記中貼入程式碼](/bSIY5DbGRRmW0cq3oeN-4Q)
 - [特殊語法](/TFEV3eBlRbmJW6CouSnPfw)
 
-筆記管理 :spiral_note_pad: 
+筆記管理 :apple: 
 ---
 
 - [匯入匯出筆記](/HH5aYmiJRru-xL8CyCLCJw)
