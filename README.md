@@ -1,4 +1,3 @@
-[![hackmd-github-sync-badge](https://hackmd.io/D8R_32uFS-WMyFEH9ZG8FA/badge)](https://hackmd.io/D8R_32uFS-WMyFEH9ZG8FA)
 HackMD 筆記
 ===
 
