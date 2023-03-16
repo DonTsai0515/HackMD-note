@@ -50,6 +50,6 @@ HackMD 筆記
 ---
 
 - [儲存筆記版本](/s8H9LvdNRmutKt72ffcbmg)
-- [和 GitHub 同步]([/W1Ylo91HTDOe1ct4g6GbIg](https://github.com/DonTsai0515/HackMD-note/blob/main/%E5%A6%82%E4%BD%95%E8%88%87%20GitHub%20%E5%90%8C%E6%AD%A5%E7%AD%86%E8%A8%98.md))
+- [和 GitHub 同步](https://github.com/DonTsai0515/HackMD-note/blob/main/%E5%A6%82%E4%BD%95%E8%88%87%20GitHub%20%E5%90%8C%E6%AD%A5%E7%AD%86%E8%A8%98.md)
 
 ###### tags: `notebook`
