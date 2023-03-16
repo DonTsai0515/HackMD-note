@@ -4,7 +4,7 @@ HackMD 筆記
 快速上手 :bike: 
 ---
 
-- [快速入門教學](https://github.com/DonTsai0515/HackMD-note/blob/main/%E5%A6%82%E4%BD%95%E8%88%87%20GitHub%20%E5%90%8C%E6%AD%A5%E7%AD%86%E8%A8%98.md)
+- [快速入門教學](https://github.com/DonTsai0515/HackMD-note/blob/main/%E5%BF%AB%E9%80%9F%E5%85%A5%E9%96%80.md)
 - [完整功能介紹](https://github.com/DonTsai0515/HackMD-note/blob/main/HackMD%20%E5%AE%8C%E6%95%B4%E5%8A%9F%E8%83%BD%E4%BB%8B%E7%B4%B9.md)
 
 編輯內容 :page_facing_up: 
